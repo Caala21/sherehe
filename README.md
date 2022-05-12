@@ -10,5 +10,7 @@
   <br><br>
   <label for="location">Location: </label>
   <input type="text" id="name" placeholder="your location">
-  <input type="button" value="Send">
+  <br><br>
+  <label for="number">Phone number: </label>
+  <input type="number" value="number">
  </form>
